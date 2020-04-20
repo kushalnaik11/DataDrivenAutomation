@@ -31,6 +31,7 @@ public class TC_001_ValidateLoginFunctionality extends DriverInstance
 	public void tc_002_login_functionality(String uname, String pass) throws Exception
 	{
 		LoginPage login = new LoginPage(driver);
+		System.out.println("lol");
 		login.enterUsername(uname);
 		login.enterPassword(pass);
 		login.clickSignin();
