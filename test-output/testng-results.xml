@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="125941" started-at="2020-04-18T06:28:52Z" finished-at="2020-04-18T06:30:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="125941" started-at="2020-04-18T06:28:52Z" finished-at="2020-04-18T06:30:58Z">
+      <class name="org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="initiateDriverInstance" is-config="true" duration-ms="10121" started-at="2020-04-18T11:59:33Z" finished-at="2020-04-18T11:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="tc_002_login_functionality" duration-ms="19695" started-at="2020-04-18T11:59:43Z" data-provider="Excell" finished-at="2020-04-18T12:00:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="closeDriverInstance" is-config="true" duration-ms="2683" started-at="2020-04-18T12:00:03Z" finished-at="2020-04-18T12:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="initiateDriverInstance" is-config="true" duration-ms="13123" started-at="2020-04-18T12:00:05Z" finished-at="2020-04-18T12:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="tc_002_login_functionality" duration-ms="577" started-at="2020-04-18T12:00:19Z" data-provider="Excell" finished-at="2020-04-18T12:00:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="closeDriverInstance" is-config="true" duration-ms="808" started-at="2020-04-18T12:00:19Z" finished-at="2020-04-18T12:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="initiateDriverInstance" is-config="true" duration-ms="10865" started-at="2020-04-18T12:00:20Z" finished-at="2020-04-18T12:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="tc_002_login_functionality" duration-ms="677" started-at="2020-04-18T12:00:31Z" data-provider="Excell" finished-at="2020-04-18T12:00:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="closeDriverInstance" is-config="true" duration-ms="794" started-at="2020-04-18T12:00:31Z" finished-at="2020-04-18T12:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="initiateDriverInstance" is-config="true" duration-ms="11420" started-at="2020-04-18T12:00:32Z" finished-at="2020-04-18T12:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="tc_002_login_functionality" duration-ms="674" started-at="2020-04-18T12:00:44Z" data-provider="Excell" finished-at="2020-04-18T12:00:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="closeDriverInstance" is-config="true" duration-ms="1117" started-at="2020-04-18T12:00:44Z" finished-at="2020-04-18T12:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="initiateDriverInstance" is-config="true" duration-ms="11149" started-at="2020-04-18T12:00:45Z" finished-at="2020-04-18T12:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="tc_002_login_functionality" duration-ms="608" started-at="2020-04-18T12:00:57Z" data-provider="Excell" finished-at="2020-04-18T12:00:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality@6b71769e]" name="closeDriverInstance" is-config="true" duration-ms="780" started-at="2020-04-18T12:00:57Z" finished-at="2020-04-18T12:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality -->
+      <class name="org.automation.testingworld.testcases.TC_002_Register_New_User">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="initiateDriverInstance" is-config="true" duration-ms="12503" started-at="2020-04-18T11:58:53Z" finished-at="2020-04-18T11:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_register_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="tc_002_register_new_user" duration-ms="906" started-at="2020-04-18T11:59:06Z" data-provider="Register" finished-at="2020-04-18T11:59:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lname1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lname1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_register_new_user -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="closeDriverInstance" is-config="true" duration-ms="854" started-at="2020-04-18T11:59:06Z" finished-at="2020-04-18T11:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="initiateDriverInstance" is-config="true" duration-ms="9996" started-at="2020-04-18T11:59:07Z" finished-at="2020-04-18T11:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_register_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="tc_002_register_new_user" duration-ms="741" started-at="2020-04-18T11:59:17Z" data-provider="Register" finished-at="2020-04-18T11:59:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lname2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lname2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_register_new_user -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="closeDriverInstance" is-config="true" duration-ms="843" started-at="2020-04-18T11:59:18Z" finished-at="2020-04-18T11:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="initiateDriverInstance" is-config="true" duration-ms="12263" started-at="2020-04-18T11:59:19Z" finished-at="2020-04-18T11:59:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_002_register_new_user(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="tc_002_register_new_user" duration-ms="824" started-at="2020-04-18T11:59:31Z" data-provider="Register" finished-at="2020-04-18T11:59:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lname3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lname3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002_register_new_user -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_002_Register_New_User@6bdf28bb]" name="closeDriverInstance" is-config="true" duration-ms="854" started-at="2020-04-18T11:59:32Z" finished-at="2020-04-18T11:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testingworld.testcases.TC_002_Register_New_User -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
